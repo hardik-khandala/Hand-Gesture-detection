@@ -24,16 +24,3 @@ The project's key highlights include:
 
 3. **Utilizing Python Programming:** The development of the hand gesture detection system using Python programming language demonstrates proficiency in data analysis and machine learning application.
 
-## Project Setup and Usage
-
-### Prerequisites
-
-* Python 3.x
-* Google Teachable Machine
-
-### Installation
-
-1. Clone the project repository:
-
-```bash
-git clone [[project_repository_URL](https://github.com/hardik-khandala/Hand-Gesture-detection)https://github.com/hardik-khandala/Hand-Gesture-detection]
